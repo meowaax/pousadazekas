@@ -1,2 +1,2 @@
-# pousadazekas
-Desenvolvimento de landing page para a Pousada Zekas
+# Pousada Zekas
+Desenvolvimento de landing page para a Pousada Zekas.
